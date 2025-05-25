@@ -8,7 +8,7 @@
 🎨 Always learning new stuff, More of me on mi [Instagram](https://www.instagram.com/kaledoviedo/)
 💭 Currently learning about data analytics bot automatization.</br>
 
-([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaledoviedoo)](https://github.com/kaledoviedoo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaledoviedoo)](https://github.com/kaledoviedoo/github-readme-stats)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaledoviedo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaledoviedoo@gmail.com) 
