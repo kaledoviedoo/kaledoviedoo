@@ -1,4 +1,4 @@
-![Logo](https://res.cloudinary.com/ynrljihg/image/upload/f_auto,q_auto/2f71d53217b6cf5c5d84444203ae7e07)
+![Logo](https://collection.cloudinary.com/ynrljihg/4738e80b2e8f2c497abb3387d5d176a3)
 
 # Hi there! ✋
 
