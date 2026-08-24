@@ -10,3 +10,6 @@ Outside of code and design, you'll find me exploring new tech, working on creati
 * Studying Systems Engineering at Escuela Colombiana de Ingeniería Julio Garavito.
 * Currently learning about data analytics and bot automation and finances. 
 * Passionate about making your workflow easier and building smooth digital experiences.
+
+  
+![Top Languages](https://ghstats.dev/api/langs?username=kaledoviedoo&theme=gruvbox)
