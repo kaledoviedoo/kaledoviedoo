@@ -13,3 +13,7 @@ Outside of code and design, you'll find me exploring new tech, working on creati
 
   
 ![Top Languages](https://ghstats.dev/api/langs?username=kaledoviedoo&theme=gruvbox)
+
+**Recent Activity**
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=kaledoviedoo&theme=gruvbox&days=90&width=320&height=80)
