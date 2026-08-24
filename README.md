@@ -1,5 +1,3 @@
-![Logo](https://collection.cloudinary.com/ynrljihg/4738e80b2e8f2c497abb3387d5d176a3)
-
 # Hi there! ✋
 
 I'm **Kaled**, a Systems Engineering student and developer based in Colombia.
