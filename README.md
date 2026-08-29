@@ -19,11 +19,11 @@ Outside of code and design, you'll find me exploring new tech, working on creati
 
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=kaledoviedoo&theme=gruvbox&days=90&width=320&height=80)
 
-<!-- Encabezado opcional, centrado para mayor limpieza -->
-<h3 align="center">⚙️ Arquitectura & Stack</h3>
+
+**Architecture and Stack**
 
 <!-- Contenedor centrado con las insignias unificadas -->
-<div align="center">
+<div">
   <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PowerShell-151515?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
