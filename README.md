@@ -1,53 +1,40 @@
-<h1 align="center">Hi, I'm Kaled 👋</h1>
+# Kaled Oviedo
 
-<p align="center">
-  Systems Engineering student & freelance web developer based in Medellín, Colombia 🇨🇴
-</p>
+Systems Engineering student and software developer based in Bogotá, Colombia.
 
-<p align="center">
-  <a href="https://www.instagram.com/kaledoviedo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:kaledoviedoo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[Instagram](https://www.instagram.com/kaledoviedo/) · [Email](mailto:kaledoviedoo@gmail.com)
 
----
+## About
 
-### 🚀 About Me
+I build full-stack applications, local-first AI systems, and data/automation tools. I like working close to the metal of a problem — local LLMs, structured data pipelines, and systems that don't depend on a third-party API to function.
 
-I'm a self-taught developer who builds full-stack web applications and workflow automations for small businesses under my own studio, **The Can Studio**. I care about clean, functional design and turning manual processes into smooth digital experiences.
+- Studying Systems Engineering at Escuela Colombiana de Ingeniería Julio Garavito
+- Building local-first AI systems (speech, voice control, financial analysis) with Python and TypeScript
+- Interested in data structures, automation, and applied finance
+- Also tinker with hardware: Raspberry Pi, 3D printing, and robotics on the side
 
-- 🎓 Studying **Systems Engineering** at Escuela Colombiana de Ingeniería Julio Garavito
-- 💼 Building **The Can Studio**, a freelance web dev practice serving small businesses in Medellín
-- 🍽️ Recently shipped a full-stack restaurant site with a Supabase backend and an AI reservation agent
-- 📊 Currently exploring data analytics, bot automation, and personal finance
-- 🔭 Tinkering on the side with Raspberry Pi, 3D printing, and robotics
+## Projects
 
----
+**[Alexa-Jarvis-Assistant](https://github.com/kaledoviedoo/Alexa-Jarvis-Assistant)**
+Privacy-focused local voice control bridge that turns an Amazon Echo Dot into a system automation agent, powered by a FastAPI backend and local LLMs via Ollama.
 
-### 🛠️ Tech Stack
+**[linguistical-speech-analytics](https://github.com/kaledoviedoo/linguistical-speech-analytics)**
+End-to-end local AI system for speech transcription, linguistic analysis, LLM-assisted classification, and structured validation.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-</p>
+**[Ceres](https://github.com/kaledoviedoo/Ceres)**
+3D digital twin and predictive SaaS platform for agro-industrial harvest management, yield optimization per m², and AI-driven loss prevention.
 
----
+**[macro-uncertainty-index](https://github.com/kaledoviedoo/macro-uncertainty-index)**
+Local system that reads official documents from central banks and governments, links them to 25 financial assets, and estimates the uncertainty surrounding each one.
 
-### 📊 GitHub Stats
+## Stack
 
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=kaledoviedoo&theme=gruvbox" alt="Top Languages" />
-</p>
+Python, TypeScript, JavaScript, FastAPI, Node.js, React, Supabase, Vercel, Ollama / local LLMs, PostgreSQL
 
-<p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=kaledoviedoo&theme=gruvbox&days=90&width=320&height=80" alt="Contribution Sparkline" />
-</p>
+## GitHub Stats
 
----
+![Top Languages](https://ghstats.dev/api/langs?username=kaledoviedoo&theme=gruvbox)
 
-<p align="center"><i>Always open to interesting projects and collaborations — feel free to reach out!</i></p>
+**Recent activity**
+
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=kaledoviedoo&theme=gruvbox&days=90&width=320&height=80)
