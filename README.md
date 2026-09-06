@@ -6,26 +6,24 @@ Systems Engineering student and software developer based in Bogotá, Colombia.
 
 ## About
 
-I build full-stack applications, local-first AI systems, and data/automation tools. I like working close to the metal of a problem — local LLMs, structured data pipelines, and systems that don't depend on a third-party API to function.
+I build full-stack applications, local-first AI systems, and data/automation tools. I like working close to the metal of a problem, local LLMs, structured data pipelines, and systems that don't depend on a third-party API to function.
 
 - Studying Systems Engineering at Escuela Colombiana de Ingeniería Julio Garavito
 - Building local-first AI systems (speech, voice control, financial analysis) with Python and TypeScript
 - Interested in data structures, automation, and applied finance
 - Also tinker with hardware: Raspberry Pi, 3D printing, and robotics on the side
 
-## Projects
+## What I work on
 
-**[Alexa-Jarvis-Assistant](https://github.com/kaledoviedoo/Alexa-Jarvis-Assistant)**
-Privacy-focused local voice control bridge that turns an Amazon Echo Dot into a system automation agent, powered by a FastAPI backend and local LLMs via Ollama.
+Most of my projects sit at the intersection of local-first AI and practical automation. A few threads that keep showing up:
 
-**[linguistical-speech-analytics](https://github.com/kaledoviedoo/linguistical-speech-analytics)**
-End-to-end local AI system for speech transcription, linguistic analysis, LLM-assisted classification, and structured validation.
+- **Voice and language systems** — building local voice assistants and speech/linguistic analysis pipelines that run on local LLMs instead of third-party APIs, for privacy and control over the full stack.
+- **Applied data and finance** — systems that turn unstructured public data (central bank documents, market data) into structured signals, like uncertainty indices tied to financial assets.
+- **Industry-specific SaaS** — platforms like digital twins for agro-industrial management, combining data modeling with predictive tooling for a specific real-world use case.
 
-**[Ceres](https://github.com/kaledoviedoo/Ceres)**
-3D digital twin and predictive SaaS platform for agro-industrial harvest management, yield optimization per m², and AI-driven loss prevention.
+I gravitate toward projects where I can own the whole pipeline — ingestion, processing, and the interface on top — and I especially enjoy the local-LLM side, since it forces good architecture instead of leaning on hosted AI to gloss over the hard parts.
 
-**[macro-uncertainty-index](https://github.com/kaledoviedoo/macro-uncertainty-index)**
-Local system that reads official documents from central banks and governments, links them to 25 financial assets, and estimates the uncertainty surrounding each one.
+Check out my pinned repositoriesfor the current projects.
 
 ## Stack
 
